@@ -1,0 +1,27 @@
+-- no bignum because yes
+local numbers = {
+  a = "1",
+  b = "2",
+  c = "4",
+  d = "6",
+  e = "9",
+  f = "16",
+  aa = "32",
+  ab = "64",
+  ac = "1280",
+  ad = "10^5",
+  ae = "10^7",
+  af = "10^10",
+  ba = "10^10^10^10^10",
+  bb = "10^^10 (Decker)",
+  bc = "10^^^10 (idk what this is lol)",
+  bd = "10^^^^^10",
+  be = "10{50}10",
+  bf = "Grahal",
+  ca = "G64",
+  cb = "G64^10000000000000000000000",
+  cc = "{10,10,10,10,10,10,10}",
+  cd = "Infinite",
+  ce = "Omega^1",
+  cf = "Omega^Omega
+}
